@@ -1,0 +1,124 @@
+{
+  "heading": "G10Summary Writing",
+  "topics": [
+    {
+      "heading": "Summary Writing",
+      "questions": [
+
+
+
+  {
+    "questionNo": 1,
+    "question": [
+      "Choose the correct word to complete the sentence.<br><b><i>The archaeologists discovered pottery fragments and ancient tools at the site, suggesting that the settlement was in its earliest stage of __________.</i></b>"
+    ],
+    "options": [
+      {
+        "text": "portmanteau"
+      },
+      {
+        "text": "incipience"
+      },
+      {
+        "text": "embarras de choix"
+      },
+      {
+        "text": "You cannot make a bed and not lie in it."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 2,
+    "question": [
+      "What does the expression embarras de choix mean?"
+    ],
+    "options": [
+      {
+        "text": "The difficulty of accepting the consequences of a decision."
+      },
+      {
+        "text": "The practice of avoiding debt by reducing unnecessary expenses."
+      },
+      {
+        "text": "A situation in which someone has so many options that choosing becomes difficult."
+      },
+      {
+        "text": "The earliest stage in the development of an idea or process."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 3,
+    "question": [
+      "Choose the correct word to complete the sentence.<br><b><i>The word brunch, formed by combining breakfast and lunch, is an example of a __________.</i></b>"
+    ],
+    "options": [
+      {
+        "text": "incipience"
+      },
+      {
+        "text": "embarras de choix"
+      },
+      {
+        "text": "portmanteau"
+      },
+      {
+        "text": "Better to go to bed supperless than to rise in debt."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 4,
+    "question": [
+      "What does the proverb “You cannot make a bed and not lie in it” mean?"
+    ],
+    "options": [
+      {
+        "text": "People should avoid making decisions unless they have several alternatives."
+      },
+      {
+        "text": "People must accept the consequences of their own actions and decisions."
+      },
+      {
+        "text": "People should combine different ideas to create something new."
+      },
+      {
+        "text": "People should avoid spending money on unnecessary luxuries."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 5,
+    "question": [
+      "Meaning of a Proverb in Context<br><b><i>During a difficult month, Ethan considered borrowing money to pay for an expensive gaming console. His sister advised him to postpone the purchase and save until he could afford it.</i></b><br>Which proverb best expresses her advice?"
+    ],
+    "options": [
+      {
+        "text": "You cannot make a bed and not lie in it."
+      },
+      {
+        "text": "Better to go to bed supperless than to rise in debt."
+      },
+      {
+        "text": "Embarras de choix."
+      },
+      {
+        "text": "Portmanteau."
+      }
+    ],
+    "answer": 1
+  }
+
+
+]
+
+
+
+
+    }
+  ]
+}
